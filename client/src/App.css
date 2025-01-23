@@ -2,13 +2,13 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
+  background-color: #bebac7;
   color: #333;
 }
 
 header {
-  background-color: blanchedalmond;
-  color: #fff;
+  background-color: rgb(33, 155, 102);
+  color: #cd5b5b;
   padding: 10px 0;
   text-align: center;
   font-size: 2rem;
@@ -37,7 +37,7 @@ nav ul li a {
 
 nav ul li a:hover {
   background-color: #1d3557;
-  color: #fff;
+  color: #decaca;
 }
 
 h1 {
@@ -50,7 +50,7 @@ form {
   max-width: 500px;
   margin: 20px auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #f7a3a3;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -82,7 +82,7 @@ form .btn {
   width: 100%;
   padding: 12px;
   background-color: #1d3557;
-  color: #fff;
+  color: #cbbaba;
   border: none;
   border-radius: 6px;
   font-size: 1.1rem;
@@ -100,7 +100,7 @@ ul {
 }
 
 ul li {
-  background-color: #fff;
+  background-color: #ab9b9b;
   margin: 10px auto;
   padding: 20px;
   border-radius: 8px;
@@ -117,7 +117,7 @@ ul li button {
   margin: 5px;
   padding: 10px 15px;
   background-color: #1d3557;
-  color: #fff;
+  color: #dab8b8;
   border: none;
   border-radius: 4px;
   font-size: 1rem;
